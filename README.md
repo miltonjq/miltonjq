@@ -26,9 +26,9 @@
 ```python
 class JuniorHuaraya:
     def __init__(self):
-        self.nombre = "Junior Huaraya"
+        self.nombre = "Milton Jarata"
         self.ubicacion = "Perú 🇵🇪"
-        self.educacion = "Estadística e Informática"
+        self.educacion = "Ingenieria de Sistemas"
         self.roles = [
             "Desarrollador Full Stack",
             "Científico de Datos", 
